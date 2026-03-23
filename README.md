@@ -25,3 +25,17 @@ Data Mining คือกระบวนการค้นหาความร�
 เรียนเกี่ยวกับแนวคิด วิธีการ และขั้นตอนในการทำให้ข้อมูลมีคุณภาพก่อนเข้าสู่กระบวนการ Data Mining โดยครอบคลุมเรื่องการล้างข้อมูล (missing, noise, outlier), การรวมข้อมูลจากหลายแหล่ง, การลดขนาดข้อมูล (data reduction), การเปลี่ยนรูปแบบข้อมูล (transformation) รวมถึงการทำ dimensionality reduction
   - เอกสาร: [บทที่ 3 Data Preprocessing](03Preprocessing.pdf)
   - Google Colab: [Colab Data preprocessing](https://colab.research.google.com/drive/1SDU60ASEqhqV2xTrAMvo2bGk2cLbKl8a?usp=sharing)
+
+### 📌 Chapter 6
+  - เอกสาร: [บทที่ 6  Mining Frequent Patterns, Association
+and Correlations: Basic Concepts and Methods](06FPBasic.pdf)
+
+### 📌 Chapter 8
+  - เอกสาร: [บทที่ 8 Classification: Basic Concepts](08ClassBasic.pdf)
+
+### 📌 Chapter 9
+  - เอกสาร: [บทที่ 9 Classification: Advanced Methods](09ClassAdvanced.pdf)
+
+### 📌 Chapter 10
+  - เอกสาร: [บทที่ 10 Cluster Analysis: Basic Concepts and
+Methods](10ClusBasic.pdf)
