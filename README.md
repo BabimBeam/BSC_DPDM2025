@@ -26,29 +26,35 @@ Data Mining คือกระบวนการค้นหาความร�
   - เอกสาร: [บทที่ 3 Data Preprocessing](03Preprocessing.pdf)
   - Google Colab: [Colab Data preprocessing](https://colab.research.google.com/drive/1SDU60ASEqhqV2xTrAMvo2bGk2cLbKl8a?usp=sharing)
 
-### 📌 Chapter 4
+### 📈 Chapter 4
   - เอกสาร: [บทที่ 4_Frequent_Patterns_(Association_Rules)](Ch4_Frequent_Patterns_(Association_Rules).ipynb)
 
-### 📌 Chapter 5
+### 🤖 Chapter 5
   - เอกสาร: [บทที่ 5_Classification](Ch5_Classification.ipynb)
 
-### 📌 Chapter 6
+### 🔍 Chapter 6
   - เอกสาร: [บทที่ 6  Mining Frequent Patterns, Association
 and Correlations: Basic Concepts and Methods](06FPBasic.pdf)
 
-### 📌 Chapter 8
+### 📚 Chapter 8
   - เอกสาร: [บทที่ 8 Classification: Basic Concepts](08ClassBasic.pdf)
 
-### 📌 Chapter 9
+### 🚀 Chapter 9
   - เอกสาร: [บทที่ 9 Classification: Advanced Methods](09ClassAdvanced.pdf)
 
-### 📌 Chapter 10
+### 🧩 Chapter 10
   - เอกสาร: [บทที่ 10 Cluster Analysis: Basic Concepts and
 Methods](10ClusBasic.pdf)
 
-### 📌 Quiz
+### 📝 Quiz
  - เอกสาร: [Quiz 9](Quiz9.pdf)
  - เอกสาร: [Quiz 12](Q12.pdf)
 
-### 📌 Final Project\
+### HOMEWORK
+  - เอกสาร: [HW 4 ](HW_4_กลุ่ม_FBA_888.ipynb)
+### 📌 Final Project
   - เอกสาร: [Group4_final_project](Group4_final_project.ipynb)
+
+### 📝 EXAM
+ - เอกสาร: [Midterm](Midterm_663020581_4_.ipynb)
+ - เอกสาร: [Final]()
