@@ -57,4 +57,4 @@ Methods](10ClusBasic.pdf)
 
 ### 📝 EXAM
  - เอกสาร: [Midterm](Midterm_663020581_4_.ipynb)
- - เอกสาร: [Final]()
+ - เอกสาร: [Final](final_BSC.ipynb)
